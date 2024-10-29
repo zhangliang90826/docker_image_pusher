@@ -8,3 +8,8 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 linuxserver/plex
+yipengfei/movie-robot
+linuxserver/transmission
+louislam/dockge
+jxxghp/moviepilot
+linuxserver/qbittorrent
