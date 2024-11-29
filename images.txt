@@ -13,3 +13,4 @@ linuxserver/transmission
 louislam/dockge
 jxxghp/moviepilot
 linuxserver/qbittorrent
+adguard/adguardhome
