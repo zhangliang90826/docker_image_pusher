@@ -14,3 +14,4 @@ louislam/dockge
 jxxghp/moviepilot
 linuxserver/qbittorrent
 adguard/adguardhome
+ddsderek/wxchat
